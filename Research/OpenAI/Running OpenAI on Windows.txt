@@ -1,0 +1,8 @@
+*Installing Gym:
+	https://stackoverflow.com/questions/42605769/openai-gym-atari-on-windows
+
+*Installing OpenCV and settingup Virtual Environments:
+	https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
+
+*Test if installed Gym successfully:
+	https://gist.github.com/iambrian/2bcc8fc03eaecb2cbe53012d2f505465
