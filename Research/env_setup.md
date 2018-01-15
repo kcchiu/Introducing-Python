@@ -1,6 +1,6 @@
 # A documentation of setting up various environments for AFRL research purpose.
 
-## Topics
+## Content
 #### 1. Linux Related
        - Running Linux Ubuntu in Win 10 with WSL
        - Adding GUI for WSL with LXDE
@@ -8,6 +8,7 @@
 #### 2. Docker Related
        - Requirements
        - Important documentations
+       - Installing Docker on Windows if using WSL
 
 ## 1. Linux Related
 - Running Linux Ubuntu in Win 10 with WSL  
@@ -41,13 +42,14 @@ google-chrome
 
 ## 2. Docker Related
 - Requirements  
-  - Win 10 Pro (Home edition not supported by Docker), or  
+  - Win 10 Pro (Home edition is not supported), or  
   - Linux, or  
   - Mac  
   
 - Important official documentations  
+  - All the documentations are [here](https://docs.docker.com/). A few important ones are provided below for convinience.  
+  - [Installing](https://docs.docker.com/engine/installation/)
   - [Getting started](https://docs.docker.com/get-started/)  
-  - []()  
   
-- Installing Docker on Windows if using WSL
-Installation of Docker on both WSL and Windows is necessary. A guide can be found [here](https://blog.jayway.com/2017/04/19/running-docker-on-bash-on-windows/).  
+- Installing Docker on Windows if using WSL  
+Installation of Docker on both WSL _and_ Windows is necessary. A guide can be found [here](https://blog.jayway.com/2017/04/19/running-docker-on-bash-on-windows/).  
